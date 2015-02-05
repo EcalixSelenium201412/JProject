@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21653" started-at="2015-01-06T22:44:43Z" finished-at="2015-01-06T22:45:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21653" started-at="2015-01-06T22:44:43Z" finished-at="2015-01-06T22:45:04Z">
+      <class name="com.SQL.test.TestExcel">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="SetUp" is-config="true" duration-ms="10868" started-at="2015-01-06T14:44:43Z" finished-at="2015-01-06T14:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ExcelLoginTest01()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="ExcelLoginTest01" duration-ms="2418" started-at="2015-01-06T14:44:54Z" finished-at="2015-01-06T14:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelLoginTest01 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="TearDown" is-config="true" duration-ms="1561" started-at="2015-01-06T14:44:56Z" finished-at="2015-01-06T14:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="SetUp" is-config="true" duration-ms="3404" started-at="2015-01-06T14:44:58Z" finished-at="2015-01-06T14:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ExcelLoginTest02()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="ExcelLoginTest02" duration-ms="1974" started-at="2015-01-06T14:45:01Z" finished-at="2015-01-06T14:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelLoginTest02 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SQL.test.TestExcel@627bceec]" name="TearDown" is-config="true" duration-ms="1396" started-at="2015-01-06T14:45:03Z" finished-at="2015-01-06T14:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.SQL.test.TestExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
